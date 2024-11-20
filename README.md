@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Local PvE Muliplayer Game**
  
- 🌱 I’m currently learning **SOLID Principles**
+ 🌱 I’m currently learning **Unit Testing in Unity**
 
 <!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**
 
