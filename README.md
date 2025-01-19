@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **VFX using Houdini, AI Algorithms, and VR/AR Development with Unity**
 
-<!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**-->>
+<!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**-->
 
 ⚡ Fun fact **I am also learning Chinese and Spanish**
 
