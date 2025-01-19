@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Local PvE Muliplayer Game**
+ 🔭 I’m currently working on **My first game using Unreal Engine**
  
- 🌱 I’m currently learning **Unit Testing in Unity**
+ 🌱 I’m currently learning **VFX using Houdini, AI Algorithms, and VR/AR Development with Unity**
 
-<!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**
+<!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**-->>
 
-⚡ Fun fact **hi**-->>
+⚡ Fun fact **I am also learning Chinese and Spanish**
 
  </div>
  
