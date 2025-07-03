@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **My first game using Unreal Engine**
+ 🔭 I’m currently working on **Environment Design in Unreal Engine**
  
- 🌱 I’m currently learning **VFX using Houdini, AI Algorithms, and VR/AR Development with Unity**
+ 🌱 I’m currently learning **Virtual production using Unreal**
 
 <!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**-->
 
