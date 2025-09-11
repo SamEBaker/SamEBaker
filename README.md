@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Environment Design in Unreal Engine**
+ 🔭 I’m currently working on **Senior Capstone in Unreal Engine**
  
- 🌱 I’m currently learning **Virtual production using Unreal**
+ 🌱 I’m currently learning **Arduino controllers for Unity**
 
 <!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**-->
 
-⚡ Fun fact **I am also learning Chinese and Spanish**
+⚡ Fun fact **I am also learning Spanish**
 
  </div>
  
