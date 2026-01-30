@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=E63D83&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sam+Esparza-Baker!;" />
 </h1>
 
-<h3 align="center">Im a Simulation Science, Games, and Animation student at ERAU</h3>
+<h3 align="center">I'm a Simulation Science, Games, and Animation student at Embry-Riddle University</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Senior Capstone in Unreal Engine**
+ 🔭 I’m currently working on **Capstone game in Unreal Engine as project manager and gameplay programmer.**
  
- 🌱 I’m currently learning **Arduino controllers for Unity**
+ 🌱 I’m currently learning **PHP/MySQL for game backend services and DevOps principles.**
 
 <!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**-->
 
-⚡ Fun fact **I am also learning Spanish**
+⚡ Current Hobbies: **Modding my Wii, reading The Stranger by Albert Camus, and playing Marvel Rivals**
 
  </div>
  
