@@ -50,16 +50,9 @@
 <a href="https://github.com/SamEBaker/SamEBaker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamEBaker&hide=java,html,tex&theme=radical&langs_count=3" />
 </a>
-<a href="https://github.com/SamEBaker/SamEBaker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamEBaker&show_icons=true&line_height=27&include_all_commits=true&theme=radical" alt="Sam's GitHub Stats" />
-</a>
 
 <a href="https://github.com/SamEBaker/TimeWound">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamEBaker&repo=TimeWound&theme=radical" />
-</a>
-
-<a href="https://github.com/SamEBaker/SOLID_SELECTION_MORE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamEBaker&repo=SOLID_SELECTION_MORE&theme=radical" />
 </a>
 
 <a href="https://github.com/SamEBaker/PETdaDUCK">
