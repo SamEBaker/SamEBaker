@@ -45,24 +45,3 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<a href="https://github.com/SamEBaker/SamEBaker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamEBaker&hide=java,html,tex&theme=radical&langs_count=3" />
-</a>
-
-<a href="https://github.com/SamEBaker/TimeWound">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamEBaker&repo=TimeWound&theme=radical" />
-</a>
-
-<a href="https://github.com/SamEBaker/PETdaDUCK">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SamEBaker&repo=PETdaDUCK&theme=radical" />
-</a>    
-
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
