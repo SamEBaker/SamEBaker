@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Capstone game in Unreal Engine as project manager and gameplay programmer.**
+ 🔭 I’m currently working on **unannounced survival horror game in Unreal Engine as Project Manager and Gameplay Programmer**
  
  🌱 I’m currently learning **PHP/MySQL for game backend services and DevOps principles.**
 
 <!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**-->
 
-⚡ Current Hobbies: **Modding my Wii, reading The Stranger by Albert Camus, and playing Marvel Rivals**
+⚡ Current Read: **Dungeon Crawler Carl**
 
  </div>
  
