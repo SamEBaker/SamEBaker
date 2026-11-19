@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **unannounced survival horror game in Unreal Engine as Project Manager and Gameplay Programmer**
  
- 🌱 I’m currently learning **PHP/MySQL for game backend services and DevOps principles.**
+ 🌱 I’m currently learning **SEO and Digital Marketing.**
 
 <!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**-->
 
