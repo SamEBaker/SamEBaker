@@ -16,7 +16,7 @@
 
 <!--💬 Ask me about **... or anything [here](https://github.com/SamEBaker/SamEBaker/issues)**-->
 
-⚡ Current Read: **Dungeon Crawler Carl**
+⚡ Current Read: **What Moves the Dead**
 
  </div>
  
